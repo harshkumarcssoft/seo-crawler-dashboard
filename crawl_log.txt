@@ -1,3 +1,0 @@
-PROGRESS 10 / 20 pages
-PROGRESS 20 / 20 pages
-FINISHED 20 pages. Excel report: C:\Users\Harsh\Downloads\semrush_style_seo_dashboard\semrush_style_seo_dashboard\seo_audit_report.xlsx
